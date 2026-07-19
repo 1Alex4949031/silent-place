@@ -2,6 +2,7 @@ node_modules/
 .pnpm-store/
 _site/
 dist/
+silent-place-source.zip
 
 .env
 .env.*
