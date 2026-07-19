@@ -1,0 +1,25 @@
+node_modules/
+.pnpm-store/
+_site/
+dist/
+
+.env
+.env.*
+!.env.example
+
+*.log
+.DS_Store
+Thumbs.db
+
+coverage/
+.nyc_output/
+
+.vscode/
+.idea/
+
+# Исходные PNG-дубликаты заменены оптимизированными WebP.
+assets/images/menu/almond-croissant.png
+assets/images/menu/basque-cheesecake.png
+assets/images/menu/cinnamon-bun.png
+assets/images/menu/pain-au-chocolat.png
+assets/images/menu/syrniki-salted-caramel.png
